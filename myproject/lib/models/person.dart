@@ -22,7 +22,4 @@ class Person {
 List<Person> data = [
   Person(name: "Kong", age: 30, job: Job.doctor),
   Person(name: "Jojo", age: 25, job: Job.teacher),
-  Person(name: "Jane", age: 28, job: Job.nurse),
-  Person(name: "Charlie", age: 30, job: Job.police),
-  Person(name: "Luknam", age: 28, job: Job.teacher),
 ];
